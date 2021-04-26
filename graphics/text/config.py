@@ -88,7 +88,7 @@ white_graphics = {
 
 blue_graphics = {
     "m_disopt": "DISPLAY OPTIONS",
-    "m_episod": "Choose Chapter:",
+    "m_episod": "Choose Episode:",
     "m_optttl": "OPTIONS",
     "m_skill": "Choose Skill Level:",
 }
@@ -203,6 +203,8 @@ red_graphics = {
     # match the other main menu graphics. Eternity Engine doesn't
     # use it any more, and on SMMU there's enough space for it.
     "m_multi": "Multiplayer",
+    # Crispy Doom's Crispness menu:
+    "m_crispy": "Crispness",
 }
 
 
